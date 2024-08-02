@@ -22,8 +22,8 @@ This is a React application where you can search for movies, view their cast, an
 
 ### Prerequisites
 
-- Node.js (>= 12.x)
-- npm (>= 6.x) or yarn (>= 1.x)
+- Node.js 
+- npm 
 
 ### Installation
 
